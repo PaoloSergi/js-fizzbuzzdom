@@ -2,6 +2,12 @@ body{
     background-color: #083b4c;
 }
 
+h1{
+    color: white;
+    font-size: 120px;
+    font-weight: 600;
+}
+
 .dom{
     background-color: #1389b2;
 }
@@ -19,8 +25,10 @@ body{
 }
 
 article{
-    width: 100px;
-    height: 100px;
+    width: 120px;
+    height: 120px;
     line-height: 100px;
     text-align: center;
+    font-weight: 600;
+    font-size: 20px;
 }
