@@ -1,0 +1,46 @@
+body{
+    background-color: #083b4c;
+}
+
+main{
+    max-width: 980px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+h1{
+    color: white;
+    font-size: 120px;
+    font-weight: 600;
+    text-align: center;
+    margin: 30px;
+    font-family: arial;
+}
+
+.dom{
+    background-color: #1389b2;
+}
+
+.fizz{
+    background-color: #0bd6a1;
+}
+
+.buzz{
+    background-color: #ffd166;
+}
+
+.fizzBuzz{
+    background-color: #f0466f;
+}
+
+article{
+    width: 120px;
+    height: 120px;
+    line-height: 100px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 20px;
+    margin: 10px;
+}
