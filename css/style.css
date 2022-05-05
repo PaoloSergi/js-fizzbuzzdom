@@ -1,0 +1,26 @@
+body{
+    background-color: #083b4c;
+}
+
+.dom{
+    background-color: #1389b2;
+}
+
+.fizz{
+    background-color: #0bd6a1;
+}
+
+.buzz{
+    background-color: #ffd166;
+}
+
+.fizzBuzz{
+    background-color: #f0466f;
+}
+
+article{
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+}
